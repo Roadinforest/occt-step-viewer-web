@@ -24,7 +24,7 @@ A simple web-based 3D viewer for `.step`, `.iges`, and `.brep` CAD files using [
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/occt-step-viewer.git
-cd occt-step-viewer
+cd occt-vue-demo
 ```
 
 2. Install Dependencies
